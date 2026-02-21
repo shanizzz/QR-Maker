@@ -1,8 +1,8 @@
-# QR Code Generator
+# QR Maker
 
 Create beautiful QR codes in seconds. No API keys required.
 
-![QR Generator](https://img.shields.io/badge/React-18-61dafb?style=flat-square)
+![QR Maker](https://img.shields.io/badge/React-18-61dafb?style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-5-646cff?style=flat-square)
 
 ## Features

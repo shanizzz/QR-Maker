@@ -172,7 +172,7 @@ export default function App() {
           className="font-heading text-4xl md:text-5xl font-extrabold tracking-tight mb-2 bg-gradient-to-br from-[var(--text-primary)] to-[var(--accent)] bg-clip-text text-transparent"
           variants={itemVariants}
         >
-          QR Generator
+          QR Maker
         </motion.h1>
         <motion.p
           className="text-lg font-medium mb-8"
